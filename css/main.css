@@ -5,3 +5,13 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+html {
+  background-color: #dbd6cf;
+  line-height: 1.5;
+}
+
+h1 {
+  font-family: 'Bevan', cursive;
+  color: #fff;
+}
