@@ -12,10 +12,10 @@ html {
 h1 {
   font-family: Bevan, cursive;
   color: #fff;
+  margin: 0;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  margin: 0;
 }
 
 nav ul {
