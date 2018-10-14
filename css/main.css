@@ -43,6 +43,10 @@ li:hover {
   background-color: #f33;
 }
 
+a:hover {
+  background-color: #f33;
+}
+
 body {
   background-color: #79756f;
   margin: 0;
